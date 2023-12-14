@@ -1,4 +1,4 @@
-
+![logo](https://github.com/IT22338334/Sithmi-S/blob/main/Sithmi%20Shehara%20Undergraduate%20%40%20SLIIT.png)
 
 <h1 align="center">Hi 👋, I'm Sithmi Shehara</h1>
 <h3 align="center">A passionate software developer from Sri Lanka</h3>
